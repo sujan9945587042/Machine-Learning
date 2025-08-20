@@ -64,3 +64,9 @@ Without PCA: Logistic Regression gave 80% accuracy.
 After PCA (dimensionality reduction): Accuracy improved to 86%.
 
 Learned how PCA helps in feature reduction & performance boost.
+
+8 Support Vector Machine (SVM) – Drug Classification
+- Dataset: **drug.csv**.  
+- Predicted drug type using patient data (Age, Sex, BP, Cholesterol).  
+- Tested different **kernels** (`linear`, `rbf`, `poly`).  
+- SVM handled non-linear separations effectively.
